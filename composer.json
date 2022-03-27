@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "iltabircom\\Captcha\\": "/"
+            "iltabircom\\Captcha\\": "Captcha.php"
         }
     }
 }
